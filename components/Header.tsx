@@ -16,7 +16,7 @@ export default function Header() {
         <span className="text-gray-400">Ribeiro de Lima</span>
       </h1>
       <p className="text-xl md:text-2xl text-gray-400 font-light max-w-3xl mx-auto leading-relaxed">
-        Desenvolvedor e cinegrafista apaixonado por criar experiências que conectam tecnologia e arte visual.
+        Desenvolvedor e aspirante a cinegrafista apaixonado por criar experiências que conectam tecnologia e arte visual.
       </p>
     </motion.section>
   )
